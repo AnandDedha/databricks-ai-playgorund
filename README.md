@@ -4,6 +4,7 @@ This repo contains code and assets for the YouTube video:
 🎥 **“Exploring Databricks AI/ML Playground + Tools (UC Function, Vector Search, MCP Server)”**
 
 Author: **Anand Kumar**
+
 Platform: **Azure Databricks**
 
 ## Overview
