@@ -1,0 +1,5 @@
+databricks-vector-search
+transformers
+pandas
+requests
+numpy
