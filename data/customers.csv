@@ -1,0 +1,16 @@
+customer_id,full_name,email,phone,loyalty_tier,city,signup_date,total_orders,lifetime_value_inr
+CUST-1001,Anand Verma,anand.verma@example.com,+91-9876543210,Gold,Noida,2023-04-12,18,142500
+CUST-1002,Priya Sharma,priya.sharma@example.com,+91-9876543211,Platinum,Mumbai,2022-11-03,34,389200
+CUST-1003,Rohit Mehta,rohit.mehta@example.com,+91-9876543212,Silver,Bengaluru,2024-01-22,6,42800
+CUST-1004,Sneha Iyer,sneha.iyer@example.com,+91-9876543213,Gold,Chennai,2023-07-19,12,98600
+CUST-1005,Arjun Kapoor,arjun.kapoor@example.com,+91-9876543214,Bronze,Delhi,2024-09-05,2,18900
+CUST-1006,Kavya Reddy,kavya.reddy@example.com,+91-9876543215,Platinum,Hyderabad,2022-08-14,41,512300
+CUST-1007,Vikram Singh,vikram.singh@example.com,+91-9876543216,Silver,Pune,2023-12-30,7,54200
+CUST-1008,Neha Gupta,neha.gupta@example.com,+91-9876543217,Gold,Jaipur,2023-05-28,15,121400
+CUST-1009,Karan Joshi,karan.joshi@example.com,+91-9876543218,Bronze,Ahmedabad,2025-02-11,3,24700
+CUST-1010,Divya Nair,divya.nair@example.com,+91-9876543219,Silver,Kochi,2024-03-18,9,67500
+CUST-1011,Aditya Rao,aditya.rao@example.com,+91-9876543220,Gold,Kolkata,2023-09-07,14,108900
+CUST-1012,Riya Malhotra,riya.malhotra@example.com,+91-9876543221,Platinum,Gurugram,2022-06-22,38,445800
+CUST-1013,Sameer Bhatia,sameer.bhatia@example.com,+91-9876543222,Bronze,Lucknow,2025-01-08,1,12400
+CUST-1014,Tanya Saxena,tanya.saxena@example.com,+91-9876543223,Silver,Chandigarh,2024-05-14,8,61300
+CUST-1015,Manish Agarwal,manish.agarwal@example.com,+91-9876543224,Gold,Indore,2023-11-25,16,134600

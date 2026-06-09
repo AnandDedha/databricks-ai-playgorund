@@ -1,0 +1,26 @@
+order_id,customer_email,product_id,product_name,quantity,unit_price_inr,total_amount_inr,order_date,status,expected_delivery,tracking_number,shipping_address_city,payment_method
+ORD-7842,anand.verma@example.com,PROD-205,Lenovo IdeaPad Slim 5 Laptop,1,58999,58999,2026-05-28,In Transit,2026-06-09,TRK-AX-99281,Noida,UPI
+ORD-7843,priya.sharma@example.com,PROD-118,Sony WH-1000XM5 Headphones,1,29990,29990,2026-05-29,Delivered,2026-06-02,TRK-AX-99282,Mumbai,Credit Card
+ORD-7844,rohit.mehta@example.com,PROD-301,Logitech MX Master 3S Mouse,2,9495,18990,2026-06-01,Processing,2026-06-10,TRK-AX-99283,Bengaluru,Debit Card
+ORD-7845,sneha.iyer@example.com,PROD-205,Lenovo IdeaPad Slim 5 Laptop,1,58999,58999,2026-05-25,Delivered,2026-05-30,TRK-AX-99284,Chennai,Credit Card
+ORD-7846,arjun.kapoor@example.com,PROD-412,Anker 65W GaN Charger,1,3499,3499,2026-06-03,Shipped,2026-06-08,TRK-AX-99285,Delhi,UPI
+ORD-7847,kavya.reddy@example.com,PROD-507,Apple MacBook Air M3,1,114900,114900,2026-05-20,Delivered,2026-05-24,TRK-AX-99286,Hyderabad,EMI
+ORD-7848,vikram.singh@example.com,PROD-118,Sony WH-1000XM5 Headphones,1,29990,29990,2026-06-04,Cancelled,NA,NA,Pune,UPI
+ORD-7849,neha.gupta@example.com,PROD-220,Samsung 27 inch 4K Monitor,1,32499,32499,2026-05-31,In Transit,2026-06-08,TRK-AX-99287,Jaipur,Credit Card
+ORD-7850,karan.joshi@example.com,PROD-301,Logitech MX Master 3S Mouse,1,9495,9495,2026-06-05,Processing,2026-06-11,TRK-AX-99288,Ahmedabad,UPI
+ORD-7851,divya.nair@example.com,PROD-412,Anker 65W GaN Charger,2,3499,6998,2026-06-02,Shipped,2026-06-09,TRK-AX-99289,Kochi,Debit Card
+ORD-7852,aditya.rao@example.com,PROD-205,Lenovo IdeaPad Slim 5 Laptop,1,58999,58999,2026-05-15,Delivered,2026-05-21,TRK-AX-99290,Kolkata,EMI
+ORD-7853,riya.malhotra@example.com,PROD-507,Apple MacBook Air M3,1,114900,114900,2026-06-06,Processing,2026-06-13,TRK-AX-99291,Gurugram,Credit Card
+ORD-7854,sameer.bhatia@example.com,PROD-118,Sony WH-1000XM5 Headphones,1,29990,29990,2026-06-06,Processing,2026-06-12,TRK-AX-99292,Lucknow,UPI
+ORD-7855,tanya.saxena@example.com,PROD-220,Samsung 27 inch 4K Monitor,1,32499,32499,2026-05-27,Delivered,2026-06-01,TRK-AX-99293,Chandigarh,Credit Card
+ORD-7856,manish.agarwal@example.com,PROD-601,Asus ROG Strix G16 Gaming Laptop,1,142999,142999,2026-05-30,In Transit,2026-06-09,TRK-AX-99294,Indore,EMI
+ORD-7857,anand.verma@example.com,PROD-118,Sony WH-1000XM5 Headphones,1,29990,29990,2026-06-04,Shipped,2026-06-10,TRK-AX-99295,Noida,UPI
+ORD-7858,priya.sharma@example.com,PROD-301,Logitech MX Master 3S Mouse,1,9495,9495,2026-06-05,Processing,2026-06-11,TRK-AX-99296,Mumbai,Credit Card
+ORD-7859,kavya.reddy@example.com,PROD-220,Samsung 27 inch 4K Monitor,2,32499,64998,2026-05-22,Delivered,2026-05-28,TRK-AX-99297,Hyderabad,Credit Card
+ORD-7860,neha.gupta@example.com,PROD-412,Anker 65W GaN Charger,1,3499,3499,2026-06-06,Processing,2026-06-12,TRK-AX-99298,Jaipur,UPI
+ORD-7861,sneha.iyer@example.com,PROD-507,Apple MacBook Air M3,1,114900,114900,2026-06-01,Delivered,2026-06-05,TRK-AX-99299,Chennai,EMI
+ORD-7862,divya.nair@example.com,PROD-601,Asus ROG Strix G16 Gaming Laptop,1,142999,142999,2026-06-03,In Transit,2026-06-10,TRK-AX-99300,Kochi,EMI
+ORD-7863,arjun.kapoor@example.com,PROD-118,Sony WH-1000XM5 Headphones,1,29990,29990,2026-06-06,Processing,2026-06-12,TRK-AX-99301,Delhi,UPI
+ORD-7864,aditya.rao@example.com,PROD-301,Logitech MX Master 3S Mouse,1,9495,9495,2026-05-29,Delivered,2026-06-03,TRK-AX-99302,Kolkata,Debit Card
+ORD-7865,vikram.singh@example.com,PROD-412,Anker 65W GaN Charger,1,3499,3499,2026-06-05,Shipped,2026-06-10,TRK-AX-99303,Pune,UPI
+ORD-7866,riya.malhotra@example.com,PROD-220,Samsung 27 inch 4K Monitor,1,32499,32499,2026-05-26,Delivered,2026-05-31,TRK-AX-99304,Gurugram,Credit Card
