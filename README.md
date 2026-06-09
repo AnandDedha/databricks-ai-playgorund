@@ -188,12 +188,6 @@ PRs welcome! See [`CONTRIBUTING.md`](CONTRIBUTING.md). For major changes, please
 
 ---
 
-## 📜 License
-
-[MIT](LICENSE) © 2026 Anand Verma
-
----
-
 ## 🙏 Acknowledgements
 
 - The Databricks Mosaic AI team for shipping Playground, Agents, and managed MCP servers
